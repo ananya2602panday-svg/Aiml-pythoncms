@@ -29,7 +29,7 @@ Deployment
 Gunicorn + Procfile support (Heroku/Render)
 
 clone the repository 
-git clone https://github.com/<your-username>/college-management-system-python.git
+git clone https:/ananyaapnday2602/github.com/<your-username>/college-management-system-python.git
 cd college-management-system-python
 
 Create a Virtual Environment
